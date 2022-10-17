@@ -4,4 +4,4 @@
 ## Summary
 
 
-This repository contains all of the notes taken by Benjamin Meng for the Lighthouse Labs Web Development Bootcamp
+This repository contains all of the notes taken by [Benjamin Meng](https://github.com/Benjamin0203) for the Lighthouse Labs Web Development Bootcamp
